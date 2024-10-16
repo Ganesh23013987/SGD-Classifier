@@ -41,7 +41,7 @@ df['target']=iris.target
 print(df.head())
 ```
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/551e037b-c209-4ad1-a8e0-93173ede22fb">
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/551e037b-c209-4ad1-a8e0-93173ede22fb">
 
 ```
 X=df.drop('target',axis=1)
